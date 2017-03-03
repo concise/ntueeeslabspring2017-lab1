@@ -56,7 +56,7 @@ apt-get install -f
 
 到 https://nodejs.org/en/ 可以看到現在最新版本號。到 https://nodejs.org/dist/ 可以看到所有可以下載的版本號。
 
-以 6.10.0 為例，Linux 或 macOS 使用者可以直接下載到 binary：
+以 6.10.0 為例，Linux 或 macOS 使用者可以直接下載相對應的 prebuilt binary：
 
 - https://nodejs.org/dist/v6.10.0/node-v6.10.0-linux-x64.tar.gz
 - https://nodejs.org/dist/v6.10.0/node-v6.10.0-darwin-x64.tar.gz
