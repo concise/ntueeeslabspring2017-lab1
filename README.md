@@ -1,4 +1,4 @@
-# 嵌入式系統實驗實驗一
+# 嵌入式系統實驗實驗一：JavaScript and web programming basics
 
 目的：以 web 應用程式開發作為練習，學習 JavaScript 程式語言。（實驗二要使用的 [Tessel 開發板](https://tessel.io/)有 JavaScript API）練習自學新的、陌生的軟體工程技術。熟悉 Linux 系統與 bash 指令列。認識 git 原始碼版本控制系統與 GitHub 平台。
 
