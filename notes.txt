@@ -197,7 +197,7 @@ Some boring examples here:
 
 software engineering is about maintaining complexity
 
-    - composition is a way that is easy to reason about
+    - function composition in a way that is easy to reason about
     - build a larger system from smaller components
     - hide unnecessary details
     - work at higher level of abstractions
