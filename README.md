@@ -13,12 +13,12 @@
 - [MDN A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [Chrome DevTools](https://developer.chrome.com/devtools)
 - [Node.js](https://nodejs.org/en/)
-- ECMAScript Language Specification (本 repo 的 ecmascript-specs.zip 包含了 ES5.1、ES6、ES7 的離線網頁閱讀版了)
 - [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [MDN HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [一個 JavaScript style guide 實例](https://github.com/airbnb/javascript)
 - 以前上課為 JavaScript 準備的: [投影片](https://slides.com/concise/js/fullscreen#/)、[some example code snippets](https://gist.github.com/concise/ccdb62da35a07fc989e0)
+- [ECMAScript Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262-arch.htm) (本 repo 的 ecmascript-specs.zip 包含了 ES5.1、ES6、ES7 的離線網頁閱讀版了)
 
 
 
