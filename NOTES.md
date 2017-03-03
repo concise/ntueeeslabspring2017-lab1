@@ -14,3 +14,5 @@ deb http://debian.linux.org.tw/ubuntu/ xenial-updates   main restricted universe
 deb http://debian.linux.org.tw/ubuntu/ xenial-backports main restricted universe multiverse
 deb http://debian.linux.org.tw/ubuntu/ xenial-security  main restricted universe multiverse
 ```
+
+然後執行 `apt-get update`。
