@@ -8,15 +8,13 @@
 
 
 
-------------------------------------------------------------
+# 其他
 
-
-
-### 安裝 Ubuntu 16.04 x64 desktop 系統
+#### 安裝 Ubuntu 16.04 x64 desktop 系統
 
 準備一支至少有 2 GB 容量的 USB flash drive。至 `http://debian.linux.org.tw/ubuntu-releases/xenial/` 或 `http://ftp.nchc.org.tw/ubuntu-cd/xenial/` 下載 `ubuntu-16.04.2-desktop-amd64.iso` 檔案。製作可開機隨身碟。
 
-### 關於用 apt 下載軟體套件
+#### 關於用 apt 下載軟體套件
 
 若在台大校內，下載軟體套件用的 archive mirror 建議使用台大計中的 `http://debian.linux.org.tw/ubuntu/`，速度較快；若在校外，則使用 `http://tw.archive.ubuntu.com/ubuntu/` 或 `http://free.nchc.org.tw/ubuntu/` 即可。
 
@@ -31,7 +29,7 @@ deb http://debian.linux.org.tw/ubuntu/ xenial-security  main restricted universe
 
 然後執行 `apt-get update`。
 
-### 安裝 Google Chrome 瀏覽器
+#### 安裝 Google Chrome 瀏覽器
 
 ```
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
@@ -39,7 +37,7 @@ dpkg -i google-chrome-stable_current_amd64.deb
 apt-get install -f
 ```
 
-### 安裝 Node.js LTS 版 (v6 系列)
+#### 安裝 Node.js LTS 版 (v6 系列)
 
 到 https://nodejs.org/en/ 可以看到現在最新版本號。到 https://nodejs.org/dist/ 可以看到所有可以下載的版本號。
 
