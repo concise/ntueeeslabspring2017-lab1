@@ -35,10 +35,8 @@ at least three ideas
 
 ------------------------------------------------------------------------------
 
-Learning...
-
 No matter what programming languages you choose, you can do > 99% of what you
-want to do achieve by getting a small subset of the languages
+want to achieve by using only a small subset of the language features
 
 ------------------------------------------------------------------------------
 
@@ -187,7 +185,7 @@ CSS
 
 Let's do something beyond hello world...  What do you want to do?
 
-I only have some boring examples...
+Some boring examples here:
     1. base64 encoder decoder
     2. open a file and print the content to stdout
     3. create a trivial webserver
