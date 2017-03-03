@@ -27,7 +27,7 @@
 
 #### 安裝 Ubuntu 16.04 x64 desktop 系統
 
-準備一支至少有 2 GB 容量的 USB flash drive。至 `http://debian.linux.org.tw/ubuntu-releases/xenial/` 或 `http://ftp.nchc.org.tw/ubuntu-cd/xenial/` 下載 `ubuntu-16.04.2-desktop-amd64.iso` 檔案。製作可開機隨身碟。
+準備一支至少有 2 GB 容量的 USB flash drive。至 `http://debian.linux.org.tw/ubuntu-releases/xenial/` 或 `http://ftp.nchc.org.tw/ubuntu-cd/xenial/` 下載 `ubuntu-16.04.2-desktop-amd64.iso` 檔案。製作可開機隨身碟，用隨身碟開機，安裝系統。
 
 #### 用 apt 下載、安裝軟體套件，可以選用較快的 mirror
 
