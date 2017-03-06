@@ -23,7 +23,7 @@
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [localStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
 - [Events](https://developer.mozilla.org/en-US/docs/Web/Events)
-- [Pro Git book 第一章與第二章](https://git-scm.com/book/en/v2)
+- [Pro Git book 第一章與第二章](https://git-scm.com/book/zh-tw/v2)（[原英文版](https://git-scm.com/book/en/v2)）
 
 
 
