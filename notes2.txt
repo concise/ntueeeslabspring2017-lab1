@@ -1,0 +1,99 @@
+2017/03/10 Fri 14:20
+
+### 預定 Lab 1 Demo 時程 ###
+
+        03/31 (Fri) 14:20 - 15:10 team 1  ~ 6
+                    15:30 - 16:20 team 7  ~ 12
+                    16:30 - 17:20 team 13 ~ 17
+
+        如果不克前來，請提早用 Facebook 或 email 和助教另約時間。
+
+### 原始碼與報告繳交方式 ###
+
+        在 03/27 (Mon) 我們在 Facebook 社團會公布一個貼文，
+        請在 03/31 (Fri) 23:59 以前，在這個貼文下
+        留言你們的組別與 GitHub repository URL。
+
+### 學習資源、參考文件 ###
+
+        MDN
+
+### 型別與值 ###
+
+        Undefined
+        Null
+        Boolean
+        Number
+        String
+        Symbol
+        Object
+
+            Object Function Array Date RegExp Error
+            Promise Boolean Number String ......
+
+### mutability of bindings vs objects ###
+
+        (const T) vs T
+
+        (const T *) vs (T * const) vs (T *)
+
+### functions in JavaScript ###
+
+        function (......) {
+
+            ......
+
+            return ......;
+        }
+
+### higher-order functions ###
+
+### objects & prototypes ###
+
+### the setTimeout() homework explained ###
+
+### does this halt? ###
+
+        x = true;
+        setTimeout(function(){ x = false; }, 1000);
+        while (x) ;
+
+### event loop in JavaScript implementations ###
+
+        請參考以下演講影片
+        https://www.youtube.com/watch?v=8aGhZQkoFbQ
+        Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014
+
+### async workflow ###
+
+        "sync" vs "async"
+        "block me" vs "call me back later"
+
+        how do you write a server?
+
+### there are many tools ###
+
+        ws                              https://websockets.github.io/ws/
+        socketio                        https://socket.io/
+        express                         https://expressjs.com/
+        koa                             http://koajs.com/
+        vue                             https://vuejs.org/
+        react                           https://facebook.github.io/react/
+        ember                           http://emberjs.com/
+        angular                         https://angularjs.org/
+        redis                           https://redis.io/
+        postgresql                      https://www.postgresql.org/
+        sqlite                          https://www.sqlite.org/
+        mariadb (mysql)                 https://mariadb.org/
+        linode                          https://www.linode.com/
+        digitalocean                    https://www.digitalocean.com/
+        google cloud platform           https://cloud.google.com/
+        amazon web service              https://aws.amazon.com/
+        ...
+
+### a small example ###
+
+        https://socket.io/get-started/chat/
+
+        A good library/framework/tool may help you build systems
+        at a higher level without being distracted by unimportant details
